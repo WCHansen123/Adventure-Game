@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+}
+
+.BackGroundImage {
+  background-size: cover;
+  width: 100%;
+  height: 966px;
+}
+
+h1, #description {
+  background-color: rgba(50,50,50,0.9);
+  text-align: center;
+  width: 460px;
+  height: 50px;
+  color: white;
+  margin: 0 auto;
+}
+
+ #inventoryItem{
+ 	display: none;
+ 	margin-left: 1050px;
+ 	margin-bottom: 200px;
+ 	}
+
+#button1{
+  background-color: lightgrey;
+	border: none;
+	padding: 15px 25px;
+	float: left;
+	margin-left: 55px;
+	margin-top: 500px;
+}
+
+#button2{
+  background-color: lightgrey;
+  border: none;
+  padding: 15px 25px;
+  float: right;
+  margin-right: 55px;
+  margin-top: 500px;
+}
+
+#button3{
+  height: 70px;
+	width: 840px;
+  border: none;
+	background: none;
+  margin-top: 320px;
+  margin-left: 435px;
+}
+
+#inventoryItem {
+  margin-top: 25px;
+  margin-left: 878px;
+  width: 60px;
+  height: 90px;
+  transform: rotate(10deg);
+}
+
+#description{
+  color: white;
+  width: 460px;
+  height: 80px;
+  text-align: center;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+#buttonextra{
+  border: none;
+  background: none;
+  height: 210px;
+  width: 210px;
+  margin-top: 268px;
+  margin-left: 850px;
+}
+
+#buttonextratwo{
+  background: none;
+  height: 55px;
+  width: 55px;
+  border: none;
+  margin-left: 1150px;
+  margin-top: 200px;
+
+}
+
+#buttonextrathree{
+  background: none;
+  height: 55px;
+  width: 55px;
+  border: none;
+  margin-left: 1060px;
+  margin-top: 215px;
+}
+
+#buttonextrafour{
+  background: none;
+  height: 45px;
+  width: 45px;
+  border: none;
+  position: absolute;
+  top: 300px;
+  left: 860px;
+}
+
+#buttonextrafive{
+  background: none ;
+  height: 65px;
+  width: 65px;
+  border: none;
+ position: absolute;
+  top: 340px;
+  left: 1030px;
+}
